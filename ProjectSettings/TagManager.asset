@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Arena
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -47,4 +48,10 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 868704471
+    locked: 0
+  - name: Effects
+    uniqueID: 997219411
+    locked: 0
+  - name: UI
+    uniqueID: 2279773497
     locked: 0
